@@ -5,14 +5,14 @@
 
 **Conclusion to be tested:** It is possible to construct a globe-spanning mob that maintains the fluid nature of single-piece work throughout multiple continuous 24 hour cycles by changing the makeup of the mob throughout each day in a structured way, generally “flowing" east-to-west in a non-stop and sustainable fashion.
 
-A simplistic example of what is proposed has groups of between 2 an 3 people all participating from within 1 or more _neighboring_ time zone(s) identife=ied as a single "group". They are seperated by approximatelt 4-5 hours on either side from two simlar groups: one to the east, another the west. Each group, in _their local_ morning, combine to mob with the group to _their_ east making what they view as a "morning" mob. The two groups function as one mob totalling 4-6 people. 
+A simplistic example of what is proposed has groups of between 2 an 3 people all participating from within 1 or more _neighboring_ time zone(s) identified as a single "group". They are seperated by approximatelt 4-5 hours on either side from two simlar groups: one to the east, another the west. Each group, in _their local_ morning, combine to mob with the group to _their_ east making what they view as a "morning" mob. The two groups function as one mob totalling 4-6 people. 
 
 In this simplistic case, each group takes a break at the midpoint of thier day, after which they reform into an _afternoon_ mob, having left the group to their east and now joining with the group to their west, again seperated from them by approximatelt 4-5 time zones.
 
 At all times, there is a functionaing mob of roughly 4-6 people who have carried the code base further with each successive change. This will initially feel strange, because it is very new. If the same cycle repeats _each day_, it is expected it will become routine.
 
 **Open questions**
-There are many questions about the details: that in part is what the experiment is designed to surface. There are also some absolutes:
+There are many questions about the details: that, in part, is what the experiment is designed to surface. There are also some absolutes:
 * at any given time a _“mob"_ consists of _at least_ four people actively working together, and not more than 6,
 * on the _same thing_, 
 * on _one computer at a time_, as the driver rotates.
@@ -33,7 +33,7 @@ We are seeking participation from all hemispheres,
 More specifically, to be a viable experiment, we require a mix of developers and non-developers, men and women, from pretty much everywhere. 
 
 ## How do I volunteer? ##
-Please email any of the folling individuals (we anticipate creating a more sophisticated onboarding process later, but for now ...)
+Please email any of the following individuals (we anticipate creating a more sophisticated onboarding process later, but for now ...)
 Name | email
 ------------ | -------------
 Bob Allen | bogghead@gmail.com
