@@ -7,7 +7,7 @@
 
 A simplistic example of what is proposed has groups of between 2 an 3 people all participating from within 1 or more _neighboring_ time zone(s) identified as a single "group". They are separated by approximately 4-5 hours on either side from two simlar groups: one to the east, another to the west. Each group, in _their local_ morning, combine to mob with the group to _their_ east making what they view as a "morning" mob. The two groups function as one mob totalling 4-6 people.
 
-In this simplistic case, each group takes a break at the midpoint of thier day, after which they reform into an _afternoon_ mob, having left the group to their east and now joining with the group to their west, again seperated from them by approximatelt 4-5 time zones.
+In this simplistic case, each group takes a break at the midpoint of their day, after which they reform into an _afternoon_ mob, having left the group to their east and now joining with the group to their west, again seperated from them by approximatelt 4-5 time zones.
 
 At all times, there is a functioning mob of roughly 4-6 people who have carried the code base further with each successive change. This will initially feel strange, because it is very new. If the same cycle repeats _each day_, it is expected it will become routine.
 
@@ -28,7 +28,7 @@ None of the above challenges are any different from remote pair programming. The
 We are seeking participation from all hemispheres,
 * .. from people already experienced with mob programming,
 * .. who can commit to a _minimum_ participation of some number of days greater than 1,
-* .. and are willing to share thier eperiences freely.
+* .. and are willing to share their eperiences freely.
 
 More specifically, to be a viable experiment, we require a mix of developers and non-developers, men and women, from pretty much everywhere. 
 
