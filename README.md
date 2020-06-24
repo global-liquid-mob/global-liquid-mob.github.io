@@ -7,7 +7,7 @@
 
 A simplistic example of what is proposed has groups of between 2 an 3 people all participating from within 1 or more _neighboring_ time zone(s) identified as a single "group". They are separated by approximately 3-5 hours on either side from two simlar groups: one to the east, another to the west. Each group, in _their local_ morning, combine to mob with the group to _their_ east making what they view as a "morning" mob. The two groups function as one mob totalling 4-6 people.
 
-In this simplistic case, each group takes a break at the midpoint of their day, after which they reform into an _afternoon_ mob, having left the group to their east and now joining with the group to their west, again seperated from them by approximatelt 3-5 time zones.
+In this simplistic case, each group takes a break at the midpoint of their day, after which they reform into an _afternoon_ mob, having _left_ the group to their east and now joining with the group to their west, again seperated from them by approximatelt 3-5 time zones.
 
 In general, at all times, there is a functioning mob of roughly 4-6 people who have carried the code base further with each successive change. This will initially feel strange, because it is very new. If in the format's full implemnatation the same cycles repeat _each day_, then it is expected that these cycles will become routine.
 
@@ -59,7 +59,7 @@ Daniel Bartholomae | daniel@bartholomae.name
 * [GitHub Organization](https://github.com/global-liquid-mob)
 * [Website Source Code](https://github.com/global-liquid-mob/global-liquid-mob.github.io)
 
-[^1]: Being able to see the faces of the people you are working with turns out to be a pretty important factor in how well a mob works together. That said, there may times or reasons why that just isn't possible or desireable at _some_ time or for _some_ people. To be clear, it is highly desireable in faciltating human-to-human communication.
+[^1]: Being able to see the faces of the people you are working with turns out to be a pretty important factor in how well a mob works together. That said, there may be times or reasons why that just isn't possible or desireable at _some_ time or for _some_ people. To be clear, it is highly desireable in faciltating human-to-human communication.
 
 [^2]: Current thinking regarding a project focus is to consider using and _existing_ Open Source Project that can be forked and made more easily applied beyond it's original limited intention. One candidate project is India's [AarogyaSetu_Android application](https://github.com/nic-delhi/AarogyaSetu_Android) in large part because it is focussed on helping in a very tangible and relevant way. Turns out there is [a whole list of projects to solve the same problem](https://en.wikipedia.org/wiki/COVID-19_apps#List_of_apps_by_country). 
 Please see [this Washingtom Post article](https://techcrunch.com/2020/05/26/aarogya-setu-india-source-code-release/) that makes clear why "contract tracing" is important enough that two major countries, Germany and India, have both developed, and Open-Sourced applications to aid with the process.
