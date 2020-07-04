@@ -42,21 +42,30 @@ That said, yes, we are well aware that most people _work_ for a living, generall
 * no more time than what you would devote to a coderetreat, which is typically about the length of a workday. 
 What we are modeling is a _slice_ of a workweek: 2 consecutive days, functioning as a mob (many different connected mobs actually), developing a project[^2], together.
 
-More specifically, to be a _healthy_ experiment, we need some _varienty_: e.g. 
+** UPDATE: **
+A target timeline has been selected with the first weekend experiment being August 1st and 2nd. 
+One whole weekend is all we can ask, but if you MIGHT be available MORE that one weekend, that would help a lot. 
+We plan to run multiple weekend experiments over the next few months. Each weekend will run both Saturday _and_ Sunday. For any given individual, each day is intended to model a typical business day, e.g. 8am to 5pm, with periodic short breaks, a meal break in the middle, and a retrospective at the end of each day. Overall, the overlapping mobs will flow the work by following the sun and circling the planet.
+
+NOTE: What this is asking is when you _COULD_ be available, _ON BOTH DAYS_. Since we cannot know how many people in each part of the world will volunteer in advance, _some_ of these dates may never happen because we just don't have enough people. When we know a date is at least _POSSIBLE_, then we will check back and ask you to confirm if you can ake both days on that weekend.
+
+More specifically, to be a _healthy_ experiment, we need _varienty_: e.g. 
 1. a mix of developers and non-developers, which will likely include designers of varying sorts (we frankly do not know what all may be required; it's an _experiment_). 
 2. men, women, and every other variety of human (Please don't ask for an explicit list. At some point that just gets silly), 
 3. from pretty much everywhere on the planet (all hemispheres, both in latitude and logitude). 
 
 ## How do I volunteer? ##
-Please email any of the following individuals (we anticipate creating a more sophisticated onboarding process later, but for now ...)
+Please register via [this form]("https://docs.google.com/forms/d/e/1FAIpQLSe1W1Rscmr6Fs4o4hHi0umRoqgZ7to7HVV7ahJ-uzbYbwWGKw/viewform") 
 
+## Questions?##
 | Name               | email                          |
 |--------------------|--------------------------------|
 | Bob Allen          | <bogghead@gmail.com>           |
 | Christian Hujer    | <christian.hujer@nelkinda.com> |
+| Fred Estabrook     | <fred.estabrook@gmail.com>     |
 | Daniel Bartholomae | <daniel@bartholomae.name>      |
 
-## Timetable
+## Timetable for an experiement
 <style>
 .bordertable, .bordertable td, .bordertable th {
     border: 1px solid black;
