@@ -56,6 +56,56 @@ Please email any of the following individuals (we anticipate creating a more sop
 | Christian Hujer    | <christian.hujer@nelkinda.com> |
 | Daniel Bartholomae | <daniel@bartholomae.name>      |
 
+## Timetable
+<style>
+.bordertable, .bordertable td, .bordertable th {
+    border: 1px solid black;
+}
+</style>
+<table class="bordertable">
+<colgroup cols="2"/>
+<colgroup cols="3"/>
+<colgroup cols="3"/>
+<thead>
+<tr><th>Anchor Points</th><th>Timezone</th><th colspan="3">AM Team Members</th><th colspan="3">PM Team Members</th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="4">Eastern AU</td>                <td>UTC +11</td><td style="background-color: hsl(240, 100%, 85%);">Beth</td><td style="background-color: hsl(240, 100%, 85%);">Bill</td><td style="background-color: hsl(240, 100%, 85%);">Bob</td><td style="background-color: hsl(120, 100%, 85%);">Gabe</td><td style="background-color: hsl(120, 100%, 85%);">Gean</td><td style="background-color: hsl(120, 100%, 85%);">Gnu</td></tr>
+<tr>                                               <td>UTC +10</td><td style="background-color: hsl(240, 100%, 85%);">Beth</td><td style="background-color: hsl(240, 100%, 85%);">Bill</td><td style="background-color: hsl(240, 100%, 85%);">Bob</td><td style="background-color: hsl(120, 100%, 85%);">Gabe</td><td style="background-color: hsl(120, 100%, 85%);">Gean</td><td style="background-color: hsl(120, 100%, 85%);">Gnu</td></tr>
+<tr>                                               <td>UTC  +9</td><td style="background-color: hsl(240, 100%, 85%);">Beth</td><td style="background-color: hsl(240, 100%, 85%);">Bill</td><td style="background-color: hsl(240, 100%, 85%);">Bob</td><td style="background-color: hsl(120, 100%, 85%);">Gabe</td><td style="background-color: hsl(120, 100%, 85%);">Gean</td><td style="background-color: hsl(120, 100%, 85%);">Gnu</td></tr>
+<tr>                                               <td>UTC  +8</td><td style="background-color: hsl(240, 100%, 85%);" colspan="3">Lunch</td>                                                                                                          <td style="background-color: hsl(120, 100%, 85%);" colspan="3">End of Day</td></tr>
+</tbody>
+<tbody>
+<tr><td rowspan="5">SE Asia, West China, India</td><td>UTC  +7</td><td style="background-color: hsl( 30, 100%, 85%);">Oleg</td><td style="background-color: hsl( 30, 100%, 85%);">Otto</td><td style="background-color: hsl( 30, 100%, 85%);">Oma</td><td style="background-color: hsl(240, 100%, 85%);">Beth</td><td style="background-color: hsl(240, 100%, 85%);">Bill</td><td style="background-color: hsl(240, 100%, 85%);">Bob</td></tr>
+<tr>                                               <td>UTC  +6</td><td style="background-color: hsl( 30, 100%, 85%);">Oleg</td><td style="background-color: hsl( 30, 100%, 85%);">Otto</td><td style="background-color: hsl( 30, 100%, 85%);">Oma</td><td style="background-color: hsl(240, 100%, 85%);">Beth</td><td style="background-color: hsl(240, 100%, 85%);">Bill</td><td style="background-color: hsl(240, 100%, 85%);">Bob</td></tr>
+<tr>                                               <td>UTC  +5</td><td style="background-color: hsl( 30, 100%, 85%);">Oleg</td><td style="background-color: hsl( 30, 100%, 85%);">Otto</td><td style="background-color: hsl( 30, 100%, 85%);">Oma</td><td style="background-color: hsl(240, 100%, 85%);">Beth</td><td style="background-color: hsl(240, 100%, 85%);">Bill</td><td style="background-color: hsl(240, 100%, 85%);">Bob</td></tr>
+<tr>                                               <td>UTC  +4</td><td style="background-color: hsl( 30, 100%, 85%);">Oleg</td><td style="background-color: hsl( 30, 100%, 85%);">Otto</td><td style="background-color: hsl( 30, 100%, 85%);">Oma</td><td style="background-color: hsl(240, 100%, 85%);">Beth</td><td style="background-color: hsl(240, 100%, 85%);">Bill</td><td style="background-color: hsl(240, 100%, 85%);">Bob</td></tr>
+<tr>                                               <td>UTC  +3</td><td style="background-color: hsl( 30, 100%, 85%);" colspan="3">Lunch</td>                                                                                                          <td style="background-color: hsl(240, 100%, 85%);" colspan="3">End of Day</td></tr>
+</tbody>
+<tbody>
+<tr><td rowspan="5">Eastern AU</td>                <td>UTC  +2</td><td style="background-color: hsl(300, 100%, 85%);">Lars</td><td style="background-color: hsl(300, 100%, 85%);">Lana</td><td style="background-color: hsl(300, 100%, 85%);">Lad</td><td style="background-color: hsl( 30, 100%, 85%);">Oleg</td><td style="background-color: hsl( 30, 100%, 85%);">Otto</td><td style="background-color: hsl( 30, 100%, 85%);">Oma</td></tr>
+<tr>                                               <td>UTC  +1</td><td style="background-color: hsl(300, 100%, 85%);">Lars</td><td style="background-color: hsl(300, 100%, 85%);">Lana</td><td style="background-color: hsl(300, 100%, 85%);">Lad</td><td style="background-color: hsl( 30, 100%, 85%);">Oleg</td><td style="background-color: hsl( 30, 100%, 85%);">Otto</td><td style="background-color: hsl( 30, 100%, 85%);">Oma</td></tr>
+<tr>                                               <td>UTC    </td><td style="background-color: hsl(300, 100%, 85%);">Lars</td><td style="background-color: hsl(300, 100%, 85%);">Lana</td><td style="background-color: hsl(300, 100%, 85%);">Lad</td><td style="background-color: hsl( 30, 100%, 85%);">Oleg</td><td style="background-color: hsl( 30, 100%, 85%);">Otto</td><td style="background-color: hsl( 30, 100%, 85%);">Oma</td></tr>
+<tr>                                               <td>UTC  -1</td><td style="background-color: hsl(300, 100%, 85%);">Lars</td><td style="background-color: hsl(300, 100%, 85%);">Lana</td><td style="background-color: hsl(300, 100%, 85%);">Lad</td><td style="background-color: hsl( 30, 100%, 85%);">Oleg</td><td style="background-color: hsl( 30, 100%, 85%);">Otto</td><td style="background-color: hsl( 30, 100%, 85%);">Oma</td></tr>
+<tr>                                               <td>UTC  -2</td><td style="background-color: hsl(300, 100%, 85%);" colspan="3">Lunch</td>                                                                                                          <td style="background-color: hsl( 30, 100%, 85%);" colspan="3">End of Day</td></tr>
+</tbody>
+<tbody>
+<tr><td rowspan="5">Eastern AU</td>                <td>UTC  -3</td><td style="background-color: hsl( 60, 100%, 85%);">Yuri</td><td style="background-color: hsl( 60, 100%, 85%);">Yogi</td><td style="background-color: hsl( 60, 100%, 85%);">You</td><td style="background-color: hsl(300, 100%, 85%);">Lars</td><td style="background-color: hsl(300, 100%, 85%);">Lana</td><td style="background-color: hsl(300, 100%, 85%);">Lad</td></tr>
+<tr>                                               <td>UTC  -4</td><td style="background-color: hsl( 60, 100%, 85%);">Yuri</td><td style="background-color: hsl( 60, 100%, 85%);">Yogi</td><td style="background-color: hsl( 60, 100%, 85%);">You</td><td style="background-color: hsl(300, 100%, 85%);">Lars</td><td style="background-color: hsl(300, 100%, 85%);">Lana</td><td style="background-color: hsl(300, 100%, 85%);">Lad</td></tr>
+<tr>                                               <td>UTC  -5</td><td style="background-color: hsl( 60, 100%, 85%);">Yuri</td><td style="background-color: hsl( 60, 100%, 85%);">Yogi</td><td style="background-color: hsl( 60, 100%, 85%);">You</td><td style="background-color: hsl(300, 100%, 85%);">Lars</td><td style="background-color: hsl(300, 100%, 85%);">Lana</td><td style="background-color: hsl(300, 100%, 85%);">Lad</td></tr>
+<tr>                                               <td>UTC  -6</td><td style="background-color: hsl( 60, 100%, 85%);">Yuri</td><td style="background-color: hsl( 60, 100%, 85%);">Yogi</td><td style="background-color: hsl( 60, 100%, 85%);">You</td><td style="background-color: hsl(300, 100%, 85%);">Lars</td><td style="background-color: hsl(300, 100%, 85%);">Lana</td><td style="background-color: hsl(300, 100%, 85%);">Lad</td></tr>
+<tr>                                               <td>UTC  -7</td><td style="background-color: hsl( 60, 100%, 85%);" colspan="3">Lunch</td>                                                                                                          <td style="background-color: hsl(300, 100%, 85%);" colspan="3">End of Day</td></tr>
+</tbody>
+<tbody>
+<tr><td rowspan="5">Eastern AU</td>                <td>UTC  -8</td><td style="background-color: hsl(120, 100%, 85%);">Gabe</td><td style="background-color: hsl(120, 100%, 85%);">Gean</td><td style="background-color: hsl(120, 100%, 85%);">Gnu</td><td style="background-color: hsl( 60, 100%, 85%);">Yuri</td><td style="background-color: hsl( 60, 100%, 85%);">Yogi</td><td style="background-color: hsl( 60, 100%, 85%);">You</td></tr>
+<tr>                                               <td>UTC  -9</td><td style="background-color: hsl(120, 100%, 85%);">Gabe</td><td style="background-color: hsl(120, 100%, 85%);">Gean</td><td style="background-color: hsl(120, 100%, 85%);">Gnu</td><td style="background-color: hsl( 60, 100%, 85%);">Yuri</td><td style="background-color: hsl( 60, 100%, 85%);">Yogi</td><td style="background-color: hsl( 60, 100%, 85%);">You</td></tr>
+<tr>                                               <td>UTC -10</td><td style="background-color: hsl(120, 100%, 85%);">Gabe</td><td style="background-color: hsl(120, 100%, 85%);">Gean</td><td style="background-color: hsl(120, 100%, 85%);">Gnu</td><td style="background-color: hsl( 60, 100%, 85%);">Yuri</td><td style="background-color: hsl( 60, 100%, 85%);">Yogi</td><td style="background-color: hsl( 60, 100%, 85%);">You</td></tr>
+<tr>                                               <td>UTC -11</td><td style="background-color: hsl(120, 100%, 85%);">Gabe</td><td style="background-color: hsl(120, 100%, 85%);">Gean</td><td style="background-color: hsl(120, 100%, 85%);">Gnu</td><td style="background-color: hsl( 60, 100%, 85%);">Yuri</td><td style="background-color: hsl( 60, 100%, 85%);">Yogi</td><td style="background-color: hsl( 60, 100%, 85%);">You</td></tr>
+<tr>                                               <td>UTC +12</td><td style="background-color: hsl(120, 100%, 85%);" colspan="3">Lunch</td>                                                                                                          <td style="background-color: hsl( 60, 100%, 85%);" colspan="3">End of Day</td></tr>
+</tbody>
+<caption>Global Liquid Mob Timetable</caption>
+</table>
+
 ## Links
 * [GitHub Organization](https://github.com/global-liquid-mob)
 * [Website Source Code](https://github.com/global-liquid-mob/global-liquid-mob.github.io)
