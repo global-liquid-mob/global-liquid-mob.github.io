@@ -50,11 +50,11 @@ More specifically, to be a _healthy_ experiment, we need some _varienty_: e.g.
 ## How do I volunteer? ##
 Please email any of the following individuals (we anticipate creating a more sophisticated onboarding process later, but for now ...)
 
-| Name               | email                        |
-|--------------------|------------------------------|
-| Bob Allen          | bogghead@gmail.com           |
-| Christian Hujer    | christian.hujer@nelkinda.com |
-| Daniel Bartholomae | daniel@bartholomae.name      |
+| Name               | email                          |
+|--------------------|--------------------------------|
+| Bob Allen          | <bogghead@gmail.com>           |
+| Christian Hujer    | <christian.hujer@nelkinda.com> |
+| Daniel Bartholomae | <daniel@bartholomae.name>      |
 
 ## Links
 * [GitHub Organization](https://github.com/global-liquid-mob)
