@@ -1,6 +1,6 @@
-# Global Liquid Mob
+# Global Liquid Mob ##
 
-## The current thinking goes something like this: 
+## The current thinking goes something like this: ##
 **Hypothesis:** Mob programming, as a format, is very resilient and thrives on collaboration.
 
 **Conclusion to be tested:** It is possible to construct a globe-spanning mob that maintains the fluid nature of single-piece work throughout multiple continuous 24 hour cycles by changing the makeup of the mob throughout each day in a structured way, generally “flowing" east-to-west in a non-stop and sustainable fashion.
@@ -31,7 +31,7 @@ Some minimally viable conditions can be met for almost all participants, _ideall
 4. the ability to transfer control of the code being worked on between individuals easily, or, control of a single computer that is editing the code.
 Note that none of the above challenges are significantly different from remote pair programming. They are challenges with well-known solutions or remediations. Not every partipant may be able to meet _all_ of the above conditions _all_ of time (technology sometimes fails us and this isn't any different than in a normal workday).
 
-## The current focus
+## The current focus ##
 We are seeking participation from all hemispheres,
 * .. from people already experienced with mob programming,
 * .. who can commit to a _minimum_ participation of some number of days greater than 1,
@@ -55,9 +55,9 @@ More specifically, to be a _healthy_ experiment, we need _varienty_: e.g.
 3. from pretty much everywhere on the planet (all hemispheres, both in latitude and logitude). 
 
 ## How do I volunteer? ##
-Please register via [this form]("https://docs.google.com/forms/d/e/1FAIpQLSe1W1Rscmr6Fs4o4hHi0umRoqgZ7to7HVV7ahJ-uzbYbwWGKw/viewform") 
+Please register via [this form](https://docs.google.com/forms/d/e/1FAIpQLSe1W1Rscmr6Fs4o4hHi0umRoqgZ7to7HVV7ahJ-uzbYbwWGKw/viewform) 
 
-## Questions?##
+## Questions? ##
 | Name               | email                          |
 |--------------------|--------------------------------|
 | Bob Allen          | <bogghead@gmail.com>           |
@@ -65,7 +65,7 @@ Please register via [this form]("https://docs.google.com/forms/d/e/1FAIpQLSe1W1R
 | Fred Estabrook     | <fred.estabrook@gmail.com>     |
 | Daniel Bartholomae | <daniel@bartholomae.name>      |
 
-## Timetable for an experiement
+## Timetable for an experiement ##
 <style>
 .bordertable, .bordertable td, .bordertable th {
     border: 1px solid black;
