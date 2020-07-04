@@ -42,7 +42,7 @@ That said, yes, we are well aware that most people _work_ for a living, generall
 * no more time than what you would devote to a coderetreat, which is typically about the length of a workday. 
 What we are modeling is a _slice_ of a workweek: 2 consecutive days, functioning as a mob (many different connected mobs actually), developing a project[^2], together.
 
-** UPDATE: **
+## UPDATE: ##
 A target timeline has been selected with the first weekend experiment being August 1st and 2nd. 
 One whole weekend is all we can ask, but if you MIGHT be available MORE that one weekend, that would help a lot. 
 We plan to run multiple weekend experiments over the next few months. Each weekend will run both Saturday _and_ Sunday. For any given individual, each day is intended to model a typical business day, e.g. 8am to 5pm, with periodic short breaks, a meal break in the middle, and a retrospective at the end of each day. Overall, the overlapping mobs will flow the work by following the sun and circling the planet.
