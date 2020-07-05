@@ -22,7 +22,7 @@ Some of the advantages of a global and fluid model include but are not limited t
 * at each change of who is part of a given mob, there are _multiple_ other mobbers 
 that have been working on that solution for roughly _the last four hours_, so there is effectively no "break" or "handoff". 
 It is more akin to a continuous _flow_.
-* Learning is going on continuously, and it may turn out that the role of ["archivist"](https://github.com/willemlarsen/mobprogrammingrpg/blob/master/theArchivist.pdf) is elevated in this model to reinforce contginuous learning and commnication at multiple levels.
+* Learning is going on continuously, and it may turn out that the role of ["archivist"](https://github.com/willemlarsen/mobprogrammingrpg/blob/master/theArchivist.pdf) is elevated in this model to reinforce continguous learning and communication at multiple levels.
 
 Some minimally viable conditions can be met for almost all participants, _ideally_ continuously: 
 1. a reliable computer connection, 
