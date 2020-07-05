@@ -1,6 +1,6 @@
-# Global Liquid Mob ##
+# Global Liquid Mob
 
-## The current thinking goes something like this: ##
+## The current thinking goes something like this:
 **Hypothesis:** Mob programming, as a format, is very resilient and thrives on collaboration.
 
 **Conclusion to be tested:** It is possible to construct a globe-spanning mob that maintains the fluid nature of single-piece work throughout multiple continuous 24 hour cycles by changing the makeup of the mob throughout each day in a structured way, generally “flowing" east-to-west in a non-stop and sustainable fashion.
@@ -31,7 +31,7 @@ Some minimally viable conditions can be met for almost all participants, _ideall
 4. the ability to transfer control of the code being worked on between individuals easily, or, control of a single computer that is editing the code.
 Note that none of the above challenges are significantly different from remote pair programming. They are challenges with well-known solutions or remediations. Not every partipant may be able to meet _all_ of the above conditions _all_ of time (technology sometimes fails us and this isn't any different than in a normal workday).
 
-## The current focus ##
+## The current focus
 We are seeking participation from all hemispheres,
 * .. from people already experienced with mob programming,
 * .. who can commit to a _minimum_ participation of some number of days greater than 1,
@@ -42,7 +42,7 @@ That said, yes, we are well aware that most people _work_ for a living, generall
 * no more time than what you would devote to a coderetreat, which is typically about the length of a workday. 
 What we are modeling is a _slice_ of a workweek: 2 consecutive days, functioning as a mob (many different connected mobs actually), developing a project[^2], together.
 
-## UPDATE: ##
+## UPDATE:
 A target timeline has been selected with the first weekend experiment being August 1st and 2nd. 
 One whole weekend is all we can ask, but if you MIGHT be available MORE that one weekend, that would help a lot. 
 We plan to run multiple weekend experiments over the next few months. Each weekend will run both Saturday _and_ Sunday. For any given individual, each day is intended to model a typical business day, e.g. 8am to 5pm, with periodic short breaks, a meal break in the middle, and a retrospective at the end of each day. Overall, the overlapping mobs will flow the work by following the sun and circling the planet.
@@ -54,10 +54,11 @@ More specifically, to be a _healthy_ experiment, we need _varienty_: e.g.
 2. men, women, and every other variety of human (Please don't ask for an explicit list. At some point that just gets silly), 
 3. from pretty much everywhere on the planet (all hemispheres, both in latitude and logitude). 
 
-## How do I volunteer? ##
+## How do I volunteer?
 Please register via [this form](https://docs.google.com/forms/d/e/1FAIpQLSe1W1Rscmr6Fs4o4hHi0umRoqgZ7to7HVV7ahJ-uzbYbwWGKw/viewform) 
 
-## Questions? ##
+## Questions?
+
 | Name               | email                          |
 |--------------------|--------------------------------|
 | Bob Allen          | <bogghead@gmail.com>           |
@@ -65,7 +66,7 @@ Please register via [this form](https://docs.google.com/forms/d/e/1FAIpQLSe1W1Rs
 | Fred Estabrook     | <fred.estabrook@gmail.com>     |
 | Daniel Bartholomae | <daniel@bartholomae.name>      |
 
-## Timetable for an experiement ##
+## Timetable for an experiement
 <style>
 .bordertable, .bordertable td, .bordertable th {
     border: 1px solid black;
