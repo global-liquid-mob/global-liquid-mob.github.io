@@ -55,7 +55,7 @@ More specifically, to be a _healthy_ experiment, we need _varienty_: e.g.
 3. from pretty much everywhere on the planet (all hemispheres, both in latitude and logitude). 
 
 ## How do I volunteer?
-Please register via <a style="border: 1px solid #aaf; background-image: linear-gradient(#77f, #44f); border-radius: 1em; padding: 0.5ex; padding-left: 1em; padding-right: 1em; color: white; font-size: 150%;" href="https://docs.google.com/forms/d/e/1FAIpQLSe1W1Rscmr6Fs4o4hHi0umRoqgZ7to7HVV7ahJ-uzbYbwWGKw/viewform">this form</a>
+Please register via <a style="border: 1px solid hsl(240, 100%, 90%); background-image: linear-gradient(hsl(240, 100%, 75%), hsl(240, 100%, 60%)); border-radius: 1em; padding: 0.5ex; padding-left: 1em; padding-right: 1em; color: white; font-size: 150%;" href="https://docs.google.com/forms/d/e/1FAIpQLSe1W1Rscmr6Fs4o4hHi0umRoqgZ7to7HVV7ahJ-uzbYbwWGKw/viewform">this form</a>
 
 ## Questions?
 
