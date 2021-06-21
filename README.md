@@ -37,7 +37,7 @@ Note that none of the above challenges are significantly different from remote p
 
 ## The current focus
 
-What we are modeling is a _slice_ of a workweek: 2 consecutive days, functioning as a mob (many different connected mobs actually), developing a project[^2], together.
+What we are modeling is a _slice_ of a workweek: 2 consecutive days, functioning as a mob (many different connected mobs actually), developing a project, together.
 
 **Q1 — What constitutes a Mob/Ensemble?**
 At any given time a “mob" consists of at least four people, and not more than 7,
