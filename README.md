@@ -54,7 +54,7 @@ It will be important  to carry an objective, a singular objective for any given 
 **Yes** - [Software Crafters Slack Group](https://slack.softwarecrafters.org/) has a "#liquid-mob-session-log" channel. Please copy and paste captures from the micro-retros in that channel. If you can, please post links after the event to any social media entries (Twitter, LinkedIn, Facebook, etc) about your experience at the event.
 
 ## UPDATE:
-In June the basic model was validated for the first time. See these experinece reports where people from all over the world worked on the same codebase a totsl of 27 hours, continuoesly:
+In June the basic model was validated for the first time. See these experinece reports where people from all over the world worked on the same codebase a total of 27 hours, continuosly:
 1. Patricia M - ["Geeks unite with mob programming!"](https://www.linkedin.com/pulse/geeks-unite-mob-programming-patricia-m-/)
 2. Nicolas Guignard -  [This weekend we did an experiment](https://www.linkedin.com/posts/nicolas-guignard_opensource-mobprogramming-liquidmob-activity-6810322735856799744-cWuD)
 3. Iam Moss - [GMPE Hack Day Retro](https://docs.google.com/document/d/1IwL1HWIuCaud5_5piKrUQHFFuk-Ap-FVb-y9d06tFtw/edit#heading=h.2tsuohip6vug)
