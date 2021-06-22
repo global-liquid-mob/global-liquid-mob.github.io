@@ -48,8 +48,8 @@ on one computer at a time, as the driver rotates. The obvious exception is when 
 
 **_When_** you participate **and for how long _is entirely up to you_**. You can join from wherever you are on the planet, and the event should be in full swing the _**entire calendar day Saturday**_, and _**part** of Sunday**_, up to about **_noon NZT_**.
 
-See the images above to see where people are most likely to be joining from as the event travels around the globe.
-It will be important  to carry an objective, a singular objective for any given mob/ensemble forward, like we do with REAL coding projects. 
+**See the images above** to see _where_ people are most likely to be joining from as the event travels around the globe.
+It will be _important_ to carry an objective, a _singular_ objective for any given mob/ensemble forward, like we do with _REAL_ coding projects. 
 
 **Q3 —  Is there a Slack Group?**
 **Yes** - [Software Crafters Slack Group](https://slack.softwarecrafters.org/) has a "#liquid-mob-session-log" channel. Please copy and paste captures from the micro-retros in that channel. If you can, please post links after the event to any social media entries (Twitter, LinkedIn, Facebook, etc) about your experience at the event.
