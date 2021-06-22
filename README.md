@@ -54,6 +54,21 @@ It will be _important_ to carry an objective, a _singular_ objective for any giv
 **Q3 —  Is there a Slack Group?**
 **Yes** - [Software Crafters Slack Group](https://slack.softwarecrafters.org/) has a "#liquid-mob-session-log" channel. Please copy and paste captures from the micro-retros in that channel. If you can, please post links after the event to any social media entries (Twitter, LinkedIn, Facebook, etc) about your experience at the event.
 
+We will continue to use the same mob/ensemble method of working together. The big difference is likely to be that who you code with in the morning will be East of you, and in the afternoon you more likely to be with others who are West of you, in general.  *_THAT_* is the flow that makes a Liquid Mob.
+
+**How will mobs initially be formed?**
+The same as for Open Space: From a [Marketplace](https://docs.google.com/document/d/1KXll6C2jKRbKbna2tAy9S60lz1blaurQgcVcrZ3DHzY/edit). And they will likely form and _reform_ through an entire day. 
+
+The "micro-retrospective" pattern will still be done with each rotation (when we've all had the chance to be the driver/typist once): 
+* How did that _feel_?
+* What was it we did that felt so good that we want to do _more_ of it.
+
+**Breaks:**
+
+We take breaks roughly each hour. What will be different is how and where we share out what each team's experiences has been over the last hour. See the section above about Software Crafters Slack group. There is a channel there for this purpose.
+
+This periodic retro is a key contributor to learning, recognizing, and reinforcing new habits, and learning from, and with, one another.
+
 ## UPDATE:
 In June the basic model was validated for the first time. See these experinece reports where people from all over the world worked on the same codebase a total of 27 hours, continuosly:
 1. Patricia M - ["Geeks unite with mob programming!"](https://www.linkedin.com/pulse/geeks-unite-mob-programming-patricia-m-/)
