@@ -33,7 +33,7 @@ Some minimally viable conditions can be met for almost all participants, _ideall
 2. _minimally_, good voice connectivity, 
 3. ideally, video connection that allows each participant to see all other participants, 
 4. the ability to transfer control of the code being worked on between individuals easily, or, control of a single computer that is editing the code.
-Note that none of the above challenges are significantly different from remote pair programming. They are challenges with well-known solutions or remediations. Not every participant may be able to meet all of the above conditions all of time (technology sometimes fails us and this isn't any different than in a normal workday).
+**The details will likely be determined by the tools and frameworks already in use by the [Open Source Software project being worked on](https://docs.google.com/document/d/1KXll6C2jKRbKbna2tAy9S60lz1blaurQgcVcrZ3DHzY/edit).**
 
 ## The current focus
 
