@@ -15,7 +15,7 @@ In general, at all times, there is a functioning mob of roughly 4-6 people who h
 
 
 **Open questions**
-There are many questions about the details: That is what the experiment is designed to surface. There are also some absolutes:
+There are many questions about the details: That is what the experiment is designed to surface. There are also some _absolutes_:
 * at any given time a _“mob"_ consists of _at least_ four people, and not more than 7 (with the exception of a mob behaving like normal people and breaking for a meal),
 * actively working together on the _same thing_, 
 * on _one computer at a time_, as the driver rotates.
