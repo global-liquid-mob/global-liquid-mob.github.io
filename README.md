@@ -5,7 +5,7 @@
 
 **Conclusion to be tested:** It is possible to construct a globe-spanning mob that maintains the _fluid_ nature of single-piece work throughout multiple continuous 24 hour cycles by changing the makeup of the mob throughout each day in a structured way, generally “flowing” east-to-west in a non-stop and sustainable fashion.
 
-A simplistic example of what is proposed has groups of between 2 an 3 people all participating from within 1 or more neighboring time zone(s) identified as a single “group”. They are separated by approximately 3-5 hours on either side from two similar groups: one to the east, another to the west. Each group, in their local morning, combine to mob with the group to their east making what they view as a _morning_ mob. The two groups function as one mob totaling 4-6 people.
+A simplistic example of what is proposed has groups of between 2 and 3 people all participating from within 1 or more neighboring time zone(s) identified as a single “group”. They are separated by approximately 3-5 hours on either side from two similar groups: one to the east, another to the west. Each group, in their local morning, combine to mob with the group to their east making what they view as a _morning_ mob. The two groups function as one mob totaling 4-6 people.
 
 In this model, each group takes a break at the midpoint of their day, after which they reform into an _afternoon_ mob, having left the group to their _east_ and now _joining_ with the group to their _west_, again separated from them by approximately 3-5 time zones.
 
