@@ -44,8 +44,9 @@ At any given time a “mob" consists of at least four people, and not more than 
 actively working together on the same thing,
 on one computer at a time, as the driver rotates. The obvious exception is when people are breaking for a meal.
 
-**Q2 — Do I have to join for the entire day?** " is often asked, as well as "**When do I join this thing?**" 
-**_When_** you participate **and for how long _is entirely up to you_**. You can join from wherever you are on the planet, and the event should be in full swing the _**entire calendar day Saturday**_, and _**most of Sunday**_.
+**Q2 — Do I have to join for the _entire_ day?** " is often asked, as well as "**When do I join this thing?**"
+
+**_When_** you participate **and for how long _is entirely up to you_**. You can join from wherever you are on the planet, and the event should be in full swing the _**entire calendar day Saturday**_, and _**part** of Sunday**_, up to about **_noon NZT_**.
 
 See the images above to see where people are most likely to be joining from as the event travels around the globe.
 It will be important  to carry an objective, a singular objective for any given mob/ensemble forward, like we do with REAL coding projects. 
