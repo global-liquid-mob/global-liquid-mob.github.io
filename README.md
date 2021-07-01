@@ -37,7 +37,9 @@ Some minimally viable conditions can be met for almost all participants, _ideall
 
 ## The current focus
 
-What we are modeling is a _slice_ of a workweek: 2 consecutive days, functioning as a mob (many different connected mobs actually), developing a project, together.
+What we are modeling is a _slice_ of a workweek: 2 consecutive days, functioning as a mob (many different connected mobs actually), developing a project, together. **Q0 - When and where are events that explore this space?** 
+When: Every 3rd weekend in 2021. 
+Where: The whole planet. [Schedule and Eventbite links here.](https://www.eventbrite.com/o/code-craft-saturdays-and-sundays-15457506392)
 
 **Q1 — What constitutes a Mob/Ensemble?**
 At any given time a “mob" consists of at least four people, and not more than 7,
