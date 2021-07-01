@@ -39,7 +39,7 @@ Some minimally viable conditions can be met for almost all participants, _ideall
 
 What we are modeling is a _slice_ of a workweek: 2 consecutive days, functioning as a mob (many different connected mobs actually), developing a project, together. 
 
-**Q0 - When and where are _events_ that explore this space?** 
+**Q0 — When and where are _events_ that explore this space?** 
 When: Every 3rd weekend in 2021. 
 Where: The whole planet. [Schedule and Eventbite links here.](https://www.eventbrite.com/o/code-craft-saturdays-and-sundays-15457506392)
 
