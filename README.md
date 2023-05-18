@@ -74,7 +74,7 @@ We take breaks roughly each hour. What will be different is how and where we sha
 This periodic retro is a key contributor to learning, recognizing, and reinforcing new habits, and learning from, and with, one another.
 
 ## UPDATE:
-In June the basic model was validated for the first time. See these experinece reports where people from all over the world worked on the same codebase a total of 27 hours, continuosly:
+In June 2021 the basic model was validated for the first time. See these experinece reports where people from all over the world worked on the same codebase a total of 27 hours, continuosly:
 1. Patricia M - ["Geeks unite with mob programming!"](https://www.linkedin.com/pulse/geeks-unite-mob-programming-patricia-m-/)
 2. Nicolas Guignard -  [This weekend we did an experiment](https://www.linkedin.com/posts/nicolas-guignard_opensource-mobprogramming-liquidmob-activity-6810322735856799744-cWuD)
 3. Iam Moss - [GMPE Hack Day Retro](https://docs.google.com/document/d/1IwL1HWIuCaud5_5piKrUQHFFuk-Ap-FVb-y9d06tFtw/edit#heading=h.2tsuohip6vug)
